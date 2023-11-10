@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1uRJ1-augLhJw5wvDOL1zjKBLOLSIzXAk/view?usp=shari
 
 Requirements：
 
-Python 3.x
+Python 3.9
 Jupyter Notebook
 Libraries: joblib, scikit-learn, pandas, numpy (see notebooks for specific versions and additional dependencies)
 Installation to use these notebooks:
