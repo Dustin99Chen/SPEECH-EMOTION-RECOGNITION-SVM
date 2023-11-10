@@ -1,18 +1,24 @@
 # SPEECH-EMOTION-RECOGNITION-SVM
-Overview
+Overview：
+
 This repository contains two Jupyter notebooks that are part of a project focusing on emotional analysis in text. The project uses machine learning techniques to classify text based on the emotions expressed.
 
-Notebooks
+Notebooks：
+
 train.ipynb: This notebook is dedicated to training our machine learning model. It includes code for data preprocessing, model selection, training, and evaluation. Key libraries used include scikit-learn, pandas, and numpy.
 
 testEmotion.ipynb: This notebook is used for testing the trained model. It demonstrates how the model can be applied to new datasets to predict emotional content.
 
-Requirements
+Dataset(CASIA):
+You can download the dataset in google drive:
+https://drive.google.com/file/d/1uRJ1-augLhJw5wvDOL1zjKBLOLSIzXAk/view?usp=sharing
+
+Requirements：
+
 Python 3.x
 Jupyter Notebook
 Libraries: joblib, scikit-learn, pandas, numpy (see notebooks for specific versions and additional dependencies)
-Installation
-To use these notebooks:
+Installation to use these notebooks:
 
 Clone the repository.
 Install the required Python libraries (refer to the notebooks for specific commands and dependencies).
