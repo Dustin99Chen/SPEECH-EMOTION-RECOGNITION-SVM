@@ -1,5 +1,5 @@
-# SPEECH-EMOTION-RECOGNITION-SVM
-Overview：
+# SPEECH-EMOTION-RECOGNITION-SVM(The first Github REPOSITOR I uploaded!)
+Overview：  
 
 This repository contains two Jupyter notebooks that are part of a project focusing on emotional analysis in text. The project uses machine learning techniques to classify text based on the emotions expressed.
 
